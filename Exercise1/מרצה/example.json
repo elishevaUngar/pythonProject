@@ -1,0 +1,26 @@
+{
+    "people" : [
+        {
+            "Name": "Yuri",
+            "Age" : 31,
+            "hasChildren": false,
+            "hobbies": ["computers", "languages", "singing in the shower"]
+        },
+        {
+            "Name": "Haim",
+            "Age": 50,
+            "hasChildren": true,
+            "hobbies": ["swimming", "travel with the kids"],
+            "children": [
+                {
+                    "Name": "Yoram",
+                    "Age": 7
+                },
+                {
+                    "Name": "Guy",
+                    "Age": 31
+                }
+            ]
+        }
+    ]
+}
